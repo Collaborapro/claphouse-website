@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "titolo": "Swing Night — The Hot Stompers",
+    "data": "Sabato 12 Aprile 2025",
+    "orario": "21:30",
+    "tag": "Swing",
+    "descrizione": "Una serata di swing travolgente con la live band The Hot Stompers. Pista aperta a tutti.",
+    "immagine": "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 2,
+    "titolo": "Blues Night — Marco Bianchi Trio",
+    "data": "Venerdì 18 Aprile 2025",
+    "orario": "22:00",
+    "tag": "Blues",
+    "descrizione": "Il Marco Bianchi Trio porta a Brescia un blues autentico, roots e soul.",
+    "immagine": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 3,
+    "titolo": "WHAM! Swing Social",
+    "data": "Domenica 20 Aprile 2025",
+    "orario": "17:00",
+    "tag": "Danza",
+    "descrizione": "Social dance pomeridiano con musica swing, lezione introduttiva inclusa.",
+    "immagine": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 4,
+    "titolo": "Jazz & Cocktails",
+    "data": "Sabato 26 Aprile 2025",
+    "orario": "20:30",
+    "tag": "Jazz",
+    "descrizione": "Serata jazz in trio con cocktail d'autore nel cuore di Brescia.",
+    "immagine": "https://images.unsplash.com/photo-1485579149621-3123dd979885?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 5,
+    "titolo": "Rock'n'Roll & Boogie Night",
+    "data": "Venerdì 2 Maggio 2025",
+    "orario": "21:00",
+    "tag": "Boogie",
+    "descrizione": "Serata dedicata al rock'n'roll e boogie woogie con DJ set e performance live.",
+    "immagine": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 6,
+    "titolo": "Concerto — The Delta Blues Band",
+    "data": "Sabato 10 Maggio 2025",
+    "orario": "21:30",
+    "tag": "Blues",
+    "descrizione": "Ospite speciale: The Delta Blues Band direttamente da Milano.",
+    "immagine": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&auto=format&fit=crop&q=80"
+  }
+]
